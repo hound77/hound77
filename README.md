@@ -4,8 +4,8 @@
 
 - 👀 Actively looking for software development internship
 - 🔭 I’m currently working on Building projects for my portfolio
-- 🌱 I’m currently learning Reactjs
-- 💬 Ask me about Javascript, Html, CSS
+- 🌱 I’m currently learning Reactjs Framework
+- 💬 Ask me about Javascript, Data structures and algorithms
 - 📫 How to reach me:  [@Gmail](yogeshjha151@gmail.com),  [@Twitter](https://twitter.com/77_hound),
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spend alot of time debugging silly mistakes

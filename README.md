@@ -2,10 +2,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hound77&label=Profile%20views&color=0e75b6&style=flat" alt="hound77" /> </p>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 👀 Actively looking for software development internship
+- 👀 Actively looking for software Engineer Role
 - 🔭 I’m currently working on Building projects for my portfolio
 - 🌱 I’m currently learning Reactjs Framework
-- 💬 Ask me about Javascript, Data structures and algorithms
+- 💬 Ask me about Javascript, Data structures and algorithms, Java, React
 - 📫 How to reach me:  [@Gmail](yogeshjha151@gmail.com),  [@Twitter](https://twitter.com/77_hound),
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: Spend alot of time debugging silly mistakes

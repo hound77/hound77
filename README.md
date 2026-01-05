@@ -24,6 +24,6 @@
 <a href="https://dev.to/hound77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="hound77" height="30" width="40" /></a>
 <a href="https://twitter.com/hound_77" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hound_77" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/yogesh-jha/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yogesh-jha-8b5160170/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/yogeshjha151" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="yogeshjha151" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/u/yogeshjha01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="yogeshjha151" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hound_77"  target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="hound_77" height="30" width="40" /></a>
 </p>
